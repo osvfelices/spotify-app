@@ -1,4 +1,6 @@
-# Next.js + Tailwind CSS Example
+# A pretty cool Spotify clone using Next.js + Tailwind CSS
+
+Working on my own version of Spotify for educational purposes only.
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
