@@ -7,7 +7,9 @@ function Login({ providers }) {
   console.log(Object.values(providers));
   return (
     <div className="flex flex-col items-center bg-black min-h-screen w-full justify-center">
-      <Image className="w-52 mb-5" src={spotify_logo} alt="" />
+      <div className="w-52 mb-52">
+      <Image src={spotify_logo} alt="" />
+      </div>
 
       {Object.values(providers).map((provider) => (
         <div key={provider.name}>
