@@ -2,6 +2,9 @@
 
 Working on my own version of Spotify for educational purposes only.
 
+<img width="1261" alt="Captura de Pantalla 2022-12-09 a las 23 50 02" src="https://user-images.githubusercontent.com/93431645/206808628-14b7fe20-d0f4-41db-a4b5-8657bb5a2047.png">
+
+
 Used tools:
 
 For this project I used the following tools:
