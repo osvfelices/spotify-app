@@ -33,6 +33,10 @@ pnpm i --save @fortawesome/free-solid-svg-icons
 pnpm i --save @fortawesome/react-fontawesome
 
 
+<p align="center">
+  <img width="518" alt="Captura de Pantalla 2022-12-09 a las 23 59 45" src="https://user-images.githubusercontent.com/93431645/206809120-2be75852-4a38-4c35-82e7-66704553b0ee.png">
+</p>
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
